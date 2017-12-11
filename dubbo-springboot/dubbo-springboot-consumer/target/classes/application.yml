@@ -1,0 +1,17 @@
+server:
+    port: 8082
+spring:
+  dubbo:
+    application:
+      name: service-consumer
+    base-package: com.bamboo.consumer  # dubbo服务调用者所在的包
+    registry:
+      address: 192.168.0.91                   # zookeeper注册中心的地址
+      port: 2181                           # zookeeper注册中心的端口
+    protocol:
+      name: dubbo
+      serialization: hessian2
+    consumer:
+      timeout: 1000
+      check: false                           # 可选 服务治理 启动时检查提供者是否存在，true报错，false忽略 1.0.16以上版本
+      retries: 2                           # 服务调用重试次数
