@@ -1,15 +1,20 @@
 # dubbo-study
 dubbo study  project
 
-dubbo ÔÚ2017ÄêÖĞÑ®ÓÖĞÂ¿ªÊ¼Î¬»¤ÁË£¬spring cloudµÄÑ§Ï°ÇúÏß±È½Ï´ó£¬ËäÈ»Ä¿Ç°spring cloudÔÚ2017ÄêºÜÁ÷ĞĞ£¬µ«ÊÇ´ÓService MeshµÄ×ÊÑ¶À´¿´£¬spring cloudÊ¹±à³ÌÈËÔ±¹ı¶àµÄ¹Ø×¢ÔËÎ¬£¬ñîºÏ¶ÈÌ«¸ß£¬°éËæ×Å¹È¸è¹úÍâĞÂÒ»´úÎ¢·şÎñµÄService MeshÌá³öºÍ±³Êé£¬spring cloudµÄ²¢ÎŞÌ«´óÓÅÊÆ£¬ÎÒ¶ÔÆäspring cloudµÄÈßÓàµÄÔËÎ¬Ïà¹ØµÄ´úÂë±íÊ¾Ì«¹ı·±ÔÓ£¬±»ÌÔÌ­Ö»ÊÇÊ±¼äÎÊÌâ¡£
+dubbo åœ¨2017å¹´ä¸­æ—¬åˆæ–°å¼€å§‹ç»´æŠ¤äº†ï¼Œspring cloudçš„å­¦ä¹ æ›²çº¿æ¯”è¾ƒå¤§ï¼Œè™½ç„¶ç›®å‰spring cloudåœ¨2017å¹´å¾ˆæµè¡Œï¼Œä½†æ˜¯ä»Service Meshçš„èµ„è®¯æ¥çœ‹ï¼Œspring cloudä½¿ç¼–ç¨‹äººå‘˜è¿‡å¤šçš„å…³æ³¨è¿ç»´ï¼Œè€¦åˆåº¦å¤ªé«˜ï¼Œä¼´éšç€è°·æ­Œå›½å¤–æ–°ä¸€ä»£å¾®æœåŠ¡çš„Service Meshæå‡ºå’ŒèƒŒä¹¦ï¼Œspring cloudçš„å¹¶æ— å¤ªå¤§ä¼˜åŠ¿ï¼Œæˆ‘å¯¹å…¶spring cloudçš„å†—ä½™çš„è¿ç»´ç›¸å…³çš„ä»£ç è¡¨ç¤ºå¤ªè¿‡ç¹æ‚ï¼Œè¢«æ·˜æ±°åªæ˜¯æ—¶é—´é—®é¢˜ã€‚
 
-## ×÷ÕßºÍËûµÄblog
-Ô´ÂëµØÖ·£ºÎÒµÄ[GitHubµØÖ·](https://github.com/BambooZhang "GitHub")<br>
-×÷Õß£º[Bamboo](http://blog.csdn.net/zjcjava "Bamboo")<br>
+- dubbo-1ç®€å•å®ç°æœåŠ¡ç«¯å’Œæ¶ˆè´¹ç«¯	dubbo-adminç¼–è¯‘åçš„waråŒ…	 
+- dubbo-demo	ç®€å•å®ç°æœåŠ¡ç«¯å’Œæ¶ˆè´¹ç«¯demo	 
+- dubbo-springboot	dubboå’Œspringbootæ•´åˆdemo:ä½¿ç”¨ç¬¬ä¸‰æ–¹ä¸ªäººå®šä¹‰çš„spring-boot-dubbo-start
+- springboot-dubbo	springboot dubbo dubbo2.5.8+ä½¿ç”¨é˜¿é‡Œå®˜æ–¹springboot-dubbo-starté›†æˆ
+
+## ä½œè€…å’Œä»–çš„blog
+æºç åœ°å€ï¼šæˆ‘çš„[GitHubåœ°å€](https://github.com/BambooZhang "GitHub")<br>
+ä½œè€…ï¼š[Bamboo](http://blog.csdn.net/zjcjava "Bamboo")<br>
 
 
 
 
-## ÎÒµÄ¸öÈË¶©ÔÄºÅºÍÍÆ¼ö
-¹Ø×¢Î¢ĞÅ¡¾ÎÒµÄ¸öÈË¶©ÔÄºÅ¡¿ÁË½â¸ü¶à×îĞÂ×ÊÑ¶ºÍÏà¹Ø¼Ü¹¹·şÎñÎÄÕÂ<br>
-![ÎÒµÄ¸öÈË¶©ÔÄºÅ](http://img.blog.csdn.net/20170928183434735?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvempjamF2YQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+## æˆ‘çš„ä¸ªäººè®¢é˜…å·å’Œæ¨è
+å…³æ³¨å¾®ä¿¡ã€æˆ‘çš„ä¸ªäººè®¢é˜…å·ã€‘äº†è§£æ›´å¤šæœ€æ–°èµ„è®¯å’Œç›¸å…³æ¶æ„æœåŠ¡æ–‡ç« <br>
+![æˆ‘çš„ä¸ªäººè®¢é˜…å·](http://img.blog.csdn.net/20170928183434735?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvempjamF2YQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
