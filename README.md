@@ -6,7 +6,7 @@ dubbo 在2017年中旬又新开始维护了，spring cloud的学习曲线比较�
 - dubbo-1简单实现服务端和消费端	dubbo-admin编译后的war包	 
 - dubbo-demo	简单实现服务端和消费端demo	 
 - dubbo-springboot	dubbo和springboot整合demo:使用第三方个人定义的spring-boot-dubbo-start
-- springboot-dubbo	springboot dubbo dubbo2.5.8+使用阿里官方springboot-dubbo-start集成
+- springboot-dubbo	springboot dubbo dubbo2.5.8+使用阿里官方springboot-dubbo-start集成:双server互调
 
 ## 作者和他的blog
 源码地址：我的[GitHub地址](https://github.com/BambooZhang "GitHub")<br>
