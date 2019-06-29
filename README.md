@@ -1,15 +1,11 @@
-# dubbo-study
-dubbo study  project
-
-dubbo ÔÚ2017ÄêÖĞÑ®ÓÖĞÂ¿ªÊ¼Î¬»¤ÁË£¬spring cloudµÄÑ§Ï°ÇúÏß±È½Ï´ó£¬ËäÈ»Ä¿Ç°spring cloudÔÚ2017ÄêºÜÁ÷ĞĞ£¬µ«ÊÇ´ÓService MeshµÄ×ÊÑ¶À´¿´£¬spring cloudÊ¹±à³ÌÈËÔ±¹ı¶àµÄ¹Ø×¢ÔËÎ¬£¬ñîºÏ¶ÈÌ«¸ß£¬°éËæ×Å¹È¸è¹úÍâĞÂÒ»´úÎ¢·şÎñµÄService MeshÌá³öºÍ±³Êé£¬spring cloudµÄ²¢ÎŞÌ«´óÓÅÊÆ£¬ÎÒ¶ÔÆäspring cloudµÄÈßÓàµÄÔËÎ¬Ïà¹ØµÄ´úÂë±íÊ¾Ì«¹ı·±ÔÓ£¬±»ÌÔÌ­Ö»ÊÇÊ±¼äÎÊÌâ¡£
-
-## ×÷ÕßºÍËûµÄblog
-Ô´ÂëµØÖ·£ºÎÒµÄ[GitHubµØÖ·](https://github.com/BambooZhang "GitHub")<br>
-×÷Õß£º[Bamboo](http://blog.csdn.net/zjcjava "Bamboo")<br>
 
 
+dubbo-api:å…¬å…±æ¥å£å’Œå®ä½“bean
+dubbo-a:æœåŠ¡a
+dubbo-b:æœåŠ¡b
 
 
-## ÎÒµÄ¸öÈË¶©ÔÄºÅºÍÍÆ¼ö
-¹Ø×¢Î¢ĞÅ¡¾ÎÒµÄ¸öÈË¶©ÔÄºÅ¡¿ÁË½â¸ü¶à×îĞÂ×ÊÑ¶ºÍÏà¹Ø¼Ü¹¹·şÎñÎÄÕÂ<br>
-![ÎÒµÄ¸öÈË¶©ÔÄºÅ](http://img.blog.csdn.net/20170928183434735?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvempjamF2YQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+## è¯´æ˜
+ç›®å‰æˆ‘åªä½¿ç”¨ä¸‹é¢çš„ç‰ˆæœ¬æµ‹è¯•æˆåŠŸï¼Œå¯åŠ¨æœåŠ¡ä¸æŠ¥é”™ï¼Œspring-boot 2.0+ä¼šæŠ¥é”™
+dubbo-spring-boot-starter 0.1.0
+spring-boot 1.5.21.RELEASE
