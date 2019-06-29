@@ -6,5 +6,6 @@ dubbo-b:服务b
 
 
 ## 说明
-
-springboot2.0这里对应的是dubbo-spring-start 0.1.0
+目前我只使用下面的版本测试成功，启动服务不报错，spring-boot 2.0+会报错
+dubbo-spring-boot-starter 0.1.0
+spring-boot 1.5.21.RELEASE
